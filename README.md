@@ -19,3 +19,5 @@ If you are an established AI video creator with an audience, the Creator Partner
 ---
 
 *This is an independent page about a third-party product, with no affiliation to or endorsement from Higgsfield; all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
